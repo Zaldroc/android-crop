@@ -4,7 +4,7 @@
     <string name="crop__wait">Bitte warten…</string>
     <string name="crop__pick_error">Keine Bildquellen verfügbar</string>
 
-    <string name="crop__done">übernehmen</string>
-    <string name="crop__cancel" tools:ignore="ButtonCase">abbrechen</string>
+    <string name="crop__done">Übernehmen</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">Abbrechen</string>
 
 </resources>
